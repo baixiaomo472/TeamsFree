@@ -27,8 +27,13 @@
   12.更改SharePoint设置
   
 # 例外
-
   13.用windows或手机打开teams 全局
   
   14.点击文件→OneDrive疯狂刷新直到列表正常
   
+# Teams Exploratory
+  1.注册微软个人账户,打开https://aad.portal.azure.com/
+  2.创建租户与租户全局管理员
+  3.用全局管理员登录https://teams.microsoft.com/
+  4.返回仪表盘检查订阅
+  5.更改SharePoint设置
